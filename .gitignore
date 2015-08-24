@@ -3,6 +3,7 @@
 *.ko
 *.obj
 *.elf
+*.metadata
 
 # Precompiled Headers
 *.gch
